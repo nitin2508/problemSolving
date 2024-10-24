@@ -5,6 +5,7 @@
 //         }
 //     }
 // }
+//
 // printAllPairs(5)
 
 var a = 10
